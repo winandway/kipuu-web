@@ -1,0 +1,14 @@
+User-Agent: *
+Allow: /
+Disallow: /app
+Disallow: /es/app
+Disallow: /s/
+Disallow: /es/s/
+Disallow: /accept-invite
+Disallow: /es/accept-invite
+Disallow: /reset-password
+Disallow: /es/reset-password
+Disallow: /verify-email
+Disallow: /es/verify-email
+
+Sitemap: https://kipuu.com/sitemap.xml

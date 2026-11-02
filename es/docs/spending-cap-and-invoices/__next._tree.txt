@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/0mf7c_esu6a0z.css","style"]
+:HL["/marca/logo-horizontal.png","image"]
+:HL["/marca/logo-horizontal-claro.png","image"]
+5:[["children",{"s":"__PAGE__","h":160}]]
+4:[["children",{"s":{"n":"guia","t":"d","k":"spending-cap-and-invoices","s":[]},"h":65632,"c":"$Q5"}]]
+3:[["children",{"s":"docs","h":131168,"c":"$Q4"}]]
+2:[["children",{"s":"es","h":131184,"c":"$Q3"}]]
+1:[["children",{"s":"(es)","h":131184,"c":"$Q2"}]]
+0:{"b":"PU7RTUdDEfIRPRlDPv7zg","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
