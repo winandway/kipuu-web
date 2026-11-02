@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/0mf7c_esu6a0z.css","style"]
+:HL["/_next/static/chunks/06r_sa7j9n3hx.css","style"]
 :HL["/marca/logo-horizontal.png","image"]
 :HL["/marca/logo-horizontal-claro.png","image"]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":"privacy","h":96,"c":"$Q4"}]]
 2:[["children",{"s":"es","h":112,"c":"$Q3"}]]
 1:[["children",{"s":"(es)","h":112,"c":"$Q2"}]]
-0:{"b":"hqnDG477UYLZK7-K5l5OF","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"2JOgESCEOEmU5Ice_od8S","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
