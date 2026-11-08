@@ -1,0 +1,47 @@
+# Kipuu
+
+> Upload, share and open your company's files from the web, your phone, or a folder on your Mac or Windows PC. Monthly plans from $4.99 for the whole company, or pay only for what you store.
+
+Kipuu is cloud file storage for companies: web app, Windows and Mac apps that mount Kipuu as a drive, and Android and iPhone apps with camera backup. Spanish version: https://kipuu.com/es
+
+## Main pages
+
+- [Home](https://kipuu.com/): what Kipuu is
+- [Pricing](https://kipuu.com/pricing): plans and usage-based pricing
+- [Download](https://kipuu.com/download): apps for Windows, Mac, Android and iPhone
+- [Security](https://kipuu.com/security): how files are protected
+- [Docs](https://kipuu.com/docs): all guides
+
+## Guides
+
+- [Create your company account](https://kipuu.com/docs/create-your-account): Sign up in under a minute. Your company gets its own private space, and you become its owner.
+- [Forgot your password?](https://kipuu.com/docs/reset-your-password): Choose a new password from the Kipuu app or the web in a couple of minutes, with a secure link sent to your work email.
+- [Folders, uploads and downloads](https://kipuu.com/docs/upload-and-download): Organize files in folders, upload by dragging them in, and download them with one click.
+- [Share files with people outside your company](https://kipuu.com/docs/share-with-a-link): Send a link to a file or folder. It works without an account, expires when you choose, and you can turn it off.
+- [Comments at the exact second of a video or song](https://kipuu.com/docs/comment-on-videos): Your client pauses, writes, and the comment stays pinned to that moment. You tap it and the player jumps right there.
+- [Watch, listen and preview files without downloading](https://kipuu.com/docs/view-files-online): Play videos and audio, see images, and read PDFs, Word, Excel and text files right in Kipuu, without filling up your computer.
+- [Kipuu on iPhone and Android](https://kipuu.com/docs/mobile-app): Your company's files in your pocket: upload, move and share files, and back up your camera roll automatically.
+- [Back up your phone's camera roll](https://kipuu.com/docs/camera-backup): Turn on camera uploads once and your photos and videos go to your company's Kipuu folder on their own, several at a time, with each file's progress on screen.
+- [How Kipuu backup works](https://kipuu.com/docs/how-backup-works): Kipuu keeps a copy of your photos and videos in the cloud. If you delete them from your phone to free up space, they stay in Kipuu until you delete them there.
+- [Kipuu for Windows](https://kipuu.com/docs/windows-app): Get your company's files as a folder in File Explorer. Files download only when you open them, so they don't fill up your PC.
+- [Kipuu for Mac](https://kipuu.com/docs/mac-app): The Kipuu app for Mac, with the same tools as the phone app, plus a Kipuu folder in Finder that works like iCloud Drive: drop files in and they upload.
+- [Back up your computer's folders](https://kipuu.com/docs/folder-backup): Choose folders or a whole drive on your Mac or Windows PC. Everything in them, and anything new, is saved to Kipuu on its own, like camera uploads on your phone.
+- [Trash and version history](https://kipuu.com/docs/trash-and-versions): Nothing is deleted by accident: deleted items go to the trash, and every upload keeps its earlier versions.
+- [Your free trial](https://kipuu.com/docs/free-trial): Every new company gets 10 GB or 14 days free, whichever comes first, with no card. What's included and what happens when it ends.
+- [Plans and pricing](https://kipuu.com/docs/plans-and-pricing): Choose a monthly plan with space for your whole company, or pay only for what you store. How plans, extra people, extra storage and the free trial work.
+- [How usage-based pricing works](https://kipuu.com/docs/usage-based-pricing): If you don't choose a monthly plan, you pay for the storage and the operations your company actually uses. No seats to buy.
+- [Billing and payment method](https://kipuu.com/docs/billing-and-payment-method): Everything about paying for Kipuu in one place: your card, your plan, what you've used this month, what you owe and every invoice.
+- [Redeem an activation code](https://kipuu.com/docs/redeem-an-activation-code): If you paid our team directly, you received an activation code. A plan code pays your plan for the months it covers; a credit code adds money to your account that pays your invoices first. Redeem it in Settings, on the web or in the app.
+- [Spending cap and invoices](https://kipuu.com/docs/spending-cap-and-invoices): Set a monthly cap so there are never surprises, get warned before you reach it, and download every invoice as a PDF.
+- [Two-step verification](https://kipuu.com/docs/two-step-verification): Add a 6-digit code from an authenticator app when you sign in on a new browser or device.
+- [Trusted devices](https://kipuu.com/docs/trusted-devices): Stay signed in for 30 days and skip the authenticator code on browsers you trust, like Google or Microsoft do.
+- [How Kipuu keeps your files safe](https://kipuu.com/docs/security): Encrypted connections, encrypted storage, private links that expire, roles and a full activity log.
+- [Invite your team and choose their role](https://kipuu.com/docs/invite-your-team): Invite people by email, choose what each one can do, and remove someone when they leave.
+- [Your account settings](https://kipuu.com/docs/your-account): Your profile, security, plan and activation code, language, notifications and deleting your account, all in one place, section by section.
+- [Delete your account](https://kipuu.com/docs/delete-your-account): How to delete your Kipuu account from the web or the app, and what gets deleted.
+
+## Legal
+
+- [Privacy](https://kipuu.com/privacy)
+- [Terms](https://kipuu.com/terms)
+- [Support](https://kipuu.com/support)

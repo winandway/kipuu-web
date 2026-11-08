@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/1qas5ap5t-7vu.css","style"]
+:HL["/_next/static/chunks/41swy2ncn5mel.css","style"]
 :HL["/marca/logo-horizontal.png","image"]
 :HL["/marca/logo-horizontal-claro.png","image"]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"guia","t":"d","k":"usage-based-pricing","s":[]},"h":65600,"c":"$Q4"}]]
 2:[["children",{"s":"docs","h":131104,"c":"$Q3"}]]
 1:[["children",{"s":"(en)","h":131184,"c":"$Q2"}]]
-0:{"b":"ka5tUq6SRd73je4IOJjAA","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"rLUXlIj9fN-SFP5_jgVcs","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
